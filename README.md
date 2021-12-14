@@ -43,6 +43,7 @@ Dilerseniz geckodrive'ı /usr/local/bin adresinde bulabilirsiniz.
 ```$ ./run.sh <modem arayüz şifreniz>```
 ### Arka planda çalıştırma.
 kodun sonuna & ekliyoruz
+
 ```$ ./run.sh <modem arayüz şifreniz> &```
 
 
@@ -52,6 +53,7 @@ kodun sonuna & ekliyoruz
  Şuanda prgramımız arka planda çalışıyor. 
  ### Arkaplanda çalışan progamı sonlandırma 
  terminalde verilen pid kullanarak aşşağıdaki komutu çalıştırıyoruz.
+ 
  ```$ kill <pid> ```
  
  ![image](https://user-images.githubusercontent.com/49848935/145935693-a0bbf889-5f92-4c02-ad59-920e74aa83c1.png)
