@@ -21,6 +21,7 @@ Eğer sisteminizde geckodrive yoksa gerekli paketlerin yüklenmesi için termina
  ``` $ ./run.sh```
  
 ![image](https://user-images.githubusercontent.com/49848935/145933227-fa8fda27-a1e8-491c-af1b-da92ac6e9e3f.png)
+
 Enter'e bası ve paketlerin yüklenmesi için yetki 
 Dilerseniz geckodrive'ı /usr/local/bin adresinde bulabilirsiniz.
 
