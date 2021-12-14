@@ -11,6 +11,7 @@ Not  Bağlantının yenilenmesi ip adresinizi değiştirir.
 #### kullanım
 ##### Dosyayı indiriyoruz 
  ``` $ git clone https://github.com/ifelsee/vodafoneRedbox-ZTE-Resseter```
+ 
  ``` $ cd vodafoneRedbox-ZTE-Resseter/```
  ##### run.sh'u çalışabilir hale getiriyoruz 
  ``` $ chmod +x run.sh```
@@ -43,6 +44,7 @@ kodun sonuna & ekliyoruz
 ```$ ./run.sh <modem arayüz şifreniz> &```
 
 Şuanda prgramımız arka planda çalışıyor.
+ 
  ![image](https://user-images.githubusercontent.com/49848935/145935330-2012808c-3c0d-4cda-a23e-040cc7f96307.png)
  
  ##### Arkaplanda çalışan progamı sonlandırma 
@@ -50,7 +52,9 @@ kodun sonuna & ekliyoruz
  ```$ kill <pid> ```
  
  ![image](https://user-images.githubusercontent.com/49848935/145935693-a0bbf889-5f92-4c02-ad59-920e74aa83c1.png)
+
 Aynı komutu tekrar girersek komutun kapatılmış olduğunu görebiliriz 
+
 ![image](https://user-images.githubusercontent.com/49848935/145935822-8e724bd1-3957-49a6-b636-004d79c4a0c3.png)
 
 
