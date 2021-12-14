@@ -46,6 +46,7 @@ kodun sonuna & ekliyoruz
 
  
  ![image](https://user-images.githubusercontent.com/49848935/145935330-2012808c-3c0d-4cda-a23e-040cc7f96307.png)
+ 
  Şuanda prgramımız arka planda çalışıyor. 
  ### Arkaplanda çalışan progamı sonlandırma 
  terminalde verilen pid kullanarak aşşağıdaki komutu çalıştırıyoruz.
