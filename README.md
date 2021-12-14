@@ -40,9 +40,9 @@ Dilerseniz geckodrive'ı /usr/local/bin adresinde bulabilirsiniz.
         rm geckodriver-v0.30.0-linux32.tar.gz*
 
 ## çalıştırma 
-### Normal çalıştırma: 
+### Normal çalıştırma 
 ```$ ./run.sh <modem arayüz şifreniz>```
-### Arka planda çalıştırma.
+### Arka planda çalıştırma
 kodun sonuna & ekliyoruz
 
 ```$ ./run.sh <modem arayüz şifreniz> &```
