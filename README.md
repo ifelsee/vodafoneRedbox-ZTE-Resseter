@@ -6,9 +6,7 @@ Version __0.1.0__
 
 ### Açıklama 
 Vodafone Redbox, ZTE modemlerdeki bağlantı kesilmelerini izler. 
-
 Bağlantı kesilmesi 4 saniyeyi geçerse modem arayüzüne bağlanır ve bağlantıyı yeniler.
-
 Müdehale ettiği tüm kesintileri log dosaysı içine tarih ve saatini ile beraber kayıt eder.
 
 Not  Bağlantının yenilenmesi ip adresinizi değiştirir. 
