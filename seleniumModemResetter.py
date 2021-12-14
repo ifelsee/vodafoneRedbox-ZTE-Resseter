@@ -28,7 +28,7 @@ def login():
     fireFoxOptions = FirefoxOptions()
 
     ##TODO Makes firefox run in the background
-    fireFoxOptions.headless = False 
+    fireFoxOptions.headless = True 
     browser = webdriver.Firefox(options=fireFoxOptions)
 
     browser.get('http://192.168.0.1/index.html#login')  #Login Page Url
