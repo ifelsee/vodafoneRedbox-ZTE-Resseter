@@ -18,6 +18,7 @@ Not  Bağlantının yenilenmesi ip adresinizi değiştirir.
  
  #### Gereksinimlerin yüklenimi  
 Eğer sisteminizde geckodrive yoksa gerekli paketlerin yüklenmesi için terminalde işlem yapmanız gerek. 
+
  ``` $ ./run.sh```
  
 ![image](https://user-images.githubusercontent.com/49848935/145933227-fa8fda27-a1e8-491c-af1b-da92ac6e9e3f.png)
