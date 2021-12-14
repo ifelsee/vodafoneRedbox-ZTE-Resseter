@@ -1,7 +1,8 @@
  # vodafoneRedbox-ZTE-Resseter
-Version __0.1.0__
-### Bilgilendirme
+#### Bilgilendirme
 Vakit bulduğumda servis dosyasını kuruluma ekleyeceğim ancak şuan için bilgisyarı her başlattığınızda progarmı da el ile başlatmanız gerek.
+
+Version __0.1.0__
 
 ### Açıklama 
 Vodafone Redbox, ZTE modemlerdeki bağlantı kesilmelerini izler. 
