@@ -2,6 +2,11 @@
 #### Bilgilendirme
 Vakit bulduğumda servis dosyasını kuruluma ekleyeceğim ancak şuan için bilgisyarı her başlattığınızda progarmı da el ile başlatmanız gerek.
 
+i love you vodafone 
+
+![image](https://user-images.githubusercontent.com/49848935/146309737-76cce9f5-f5e6-4970-b0ad-f6069935b95c.png)
+
+
 Version __0.1.0__
 
 ### Açıklama 
