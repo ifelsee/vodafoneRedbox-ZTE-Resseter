@@ -20,7 +20,7 @@ then
 		fi
 
 		#TODO In case of disconnection for 4 seconds, try to reconnect
-		if [ $i == 4 ]
+		if [ $i == 10 ]
 		then
 			echo "$(date) Tarihinde kesinti yaşandı." >> log
 			python3 seleniumModemResetter.py $PASSWORD &> /dev/null
