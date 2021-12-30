@@ -1,5 +1,6 @@
  # vodafoneRedbox-ZTE-Resseter
 #### Bilgilendirme
+##### Sıfır bir sistemde denediğimde selenium kurulumu başarısız oldu.
 Vakit bulduğumda servis dosyasını kuruluma ekleyeceğim ancak şuan için bilgisyarı her başlattığınızda progarmı da el ile başlatmanız gerek.
 
 i love you vodafone 
